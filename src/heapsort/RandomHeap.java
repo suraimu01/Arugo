@@ -31,5 +31,7 @@ public class RandomHeap extends Heapsort {
 			
 			System.out.println("x[" + i + "]=" + x[i]) ;
 		}
+		
+		System.out.println("test") ;
 	}
 }
